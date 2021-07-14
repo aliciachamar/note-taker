@@ -58,4 +58,4 @@
 
   ## Screenshots
 
-  ![Deployed App on Heroku](https://raw.githubusercontent.com/aliciachamar/note-taker/main/public/assets/images/app-screenshot.PNG)
+  ![Deployed App on Heroku](https://raw.githubusercontent.com/aliciachamar/note-taker/main/public/assets/images/app%20screenshot.PNG)
